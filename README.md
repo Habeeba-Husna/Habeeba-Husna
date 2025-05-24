@@ -3,7 +3,7 @@
 A professional React-based portfolio site showcasing three full-stack projects with real-time features, secure file handling, and advanced UI/UX.
 
 ## 🔥 Live Demo
-🌐 [View Portfolio](https://my-portfolio.vercel.app)
+🌐 [View Portfolio]
 
 ---
 
