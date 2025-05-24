@@ -56,11 +56,3 @@ An intuitive shopping platform for baby care items with cart, wishlist, and disc
 
 ---
 
-## 🛠️ Getting Started Locally
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd my-portfolio
-npm install
-npm run dev
-
